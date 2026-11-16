@@ -3,7 +3,7 @@
  * Physical memory: 64 frames; TLB: 16 entries
  * TLB replacement: FIFO; physical page replacement: LRU
  *
- * Team Name:
+ * Team Name: SAND
  *
  * Complete the TODO functions. This starter intentionally does not
  * implement address translation or replacement algorithms.
